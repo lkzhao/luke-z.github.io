@@ -14,6 +14,8 @@ avatar: http://s.gravatar.com/avatar/e7220d9c3a4827d5db9b0c4d8e0bcef9?s=80
 # Flags below are optional
 #
 
+paginate: 5
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:

@@ -13,7 +13,7 @@
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
+    <link href='http://fonts.googleapis.com/css?family=Roboto:300,400' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
@@ -22,8 +22,8 @@
 
   <body>
     <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
+      <header class="masthead clearfix">
+        <div class="container">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
           
           <div class="site-info">
@@ -35,11 +35,11 @@
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
-        </header>
-      </div>
+        </div>
+      </header>
     </div>
 
-    <div id="main" role="main" class="container">
+    <div id="main" role="main">
       {{ content }}
     </div>
 
@@ -50,7 +50,5 @@
         </footer>
       </div>
     </div>
-
-    {% include analytics.html %}
   </body>
 </html>

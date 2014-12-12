@@ -1,0 +1,14 @@
+.post-title{
+	a{
+		color:$blue;
+		&:hover{
+			color:$blue2;
+		}
+	}
+	small{
+		margin-left:20px;
+		font-size: 13px;
+		font-weight: 400;
+		color:#555555;
+	}
+}

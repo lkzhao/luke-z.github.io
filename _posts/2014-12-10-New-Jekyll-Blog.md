@@ -16,7 +16,8 @@ title: Move to Jekyll
 2. 自定义简单， 支持sass，coffeescript，template(Liquid)
 3. 使用markdown边写
 4. 使用Git， 显得高级
-
+5. 自带Syntax Highlighting
+<!--break-->
 
 #####OK, HOW TO SETUP?
 
