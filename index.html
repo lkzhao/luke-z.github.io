@@ -31,12 +31,14 @@ layout: default
 
 <!-- Pagination links -->
 <div class="container">
-<div class="pagination">
-  {% if paginator.previous_page %}
-	<a href="{{ paginator.previous_page_path }}" class="previous">Newer Posts</a>
+  {% if paginator.previous_page or paginator.next_page %}
+    <div class="pagination">
+      {% if paginator.previous_page %}
+    	<a href="{{ paginator.previous_page_path }}" class="previous">Newer Posts</a>
+      {% endif %}
+      {% if paginator.next_page %}
+    	<a href="{{ paginator.next_page_path }}" class="next">Older Posts</a>
+      {% endif %}
+    </div>
   {% endif %}
-  {% if paginator.next_page %}
-	<a href="{{ paginator.next_page_path }}" class="next">Older Posts</a>
-  {% endif %}
-</div>
 </div>
