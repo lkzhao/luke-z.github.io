@@ -3,7 +3,7 @@ layout: post
 title: Blue Mountain 3日行
 ---
 
-<center><iframe style="width:100%" width="853" height="480"  src="//www.youtube.com/embed/Aagu_mHShas" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe style="width:100%" width="853" height="480"  src="https://www.youtube.com/embed/Aagu_mHShas" frameborder="0" allowfullscreen></iframe></center>
 
 今年reading wk又是去Blue Mountain滑雪。 去年Blue Mountain留给我的印象就是又远又差，不仅雪道短得要命，雪也很差。今年这次又赶上生病，嗓子疼，但我还是按耐不住去滑雪的热情呀。
 
