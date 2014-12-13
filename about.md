@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Luke is studying Computer Science at [University of Waterloo](www.uwaterloo.ca). He has previously interned at [Scotiabank](http://www.scotiabank.com) and [Polar Mobile Inc](http://polar.me). He is excited to join Apple for his next internship.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+### Projects
+
+OSX: -[donua](https://github.com/luke-z/donua)
+
+Web: [UWScheduler](uwscheduler.herokuapp.com), [biliWallpaper](biliwallpaper.com), [Jobmine Background Opener](https://chrome.google.com/webstore/detail/jobmine-background-opener/glcmeghmcamhbgpllpeecbaefbiolacl)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lzhaoyilun@gmail.com](mailto:lzhaoyilun@gmail.com)
