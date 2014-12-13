@@ -7,6 +7,7 @@
 $blue: #4986E9;
 $blue2: #7974FB;
 $blue-1: #7FD7FC;
+$green: #2ecc71;
 
 // Grays
 $black: #000;
@@ -26,4 +27,15 @@ $georgia: Georgia, serif;
   @media screen and (max-width: 640px) {
     @content;
   }
+}
+
+
+.black{
+  color:black;
+}
+.blue{
+  color:$blue
+}
+.green{
+  color:$green;
 }
