@@ -23,6 +23,23 @@ class foo{
 		return 0;
 	}
 };
+//why the following code wont compile?
+struct node{
+  int data;
+  node next;
+}
+{% endhighlight %}
+
+
+最后出的题是
+
+{% highlight cpp%}
+// delete the node that have the same data as deleteValue.
+// return how many are deleted.
+// why use **head?
+int deleteNode(struct node **head, int deleteValue){
+  
+}
 {% endhighlight %}
 
 
