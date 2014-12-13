@@ -10,7 +10,7 @@ Luke is studying Computer Science at [University of Waterloo](www.uwaterloo.ca).
 
 ### Projects
 
-OSX: -[donua](https://github.com/luke-z/donua)
+OSX: <s>[donua](https://github.com/luke-z/donua)</s>
 
 Web: [UWScheduler](uwscheduler.herokuapp.com), [biliWallpaper](biliwallpaper.com), [Jobmine Background Opener](https://chrome.google.com/webstore/detail/jobmine-background-opener/glcmeghmcamhbgpllpeecbaefbiolacl)
 
