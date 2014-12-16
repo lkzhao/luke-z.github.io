@@ -29,6 +29,12 @@ $georgia: Georgia, serif;
   }
 }
 
+@mixin large{
+  @media screen and (min-width: 641px) {
+    @content;
+  }
+}
+
 
 .black{
   color:black;
